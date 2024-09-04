@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/mikkl/Desktop/kl25led/build",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.07\\bin\\AR19DD~1.EXE -DCCPU_MKL25Z128VLK4_cm0plus -DCPU_MKL25Z128VLK4 -IC:/Users/mikkl/Desktop/kl25led/src -IC:/Users/mikkl/Desktop/kl25led/device -IC:/Users/mikkl/Desktop/kl25led/CMSIS -std=c99 -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -fdata-sections -ffunction-sections -Wall -O0 -g3 -o CMakeFiles\\KL25F_DEBUG.elf.dir\\src\\main.c.obj -c C:\\Users\\mikkl\\Desktop\\kl25led\\src\\main.c",
+  "file": "C:\\Users\\mikkl\\Desktop\\kl25led\\src\\main.c",
+  "output": "CMakeFiles\\KL25F_DEBUG.elf.dir\\src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/mikkl/Desktop/kl25led/build",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.07\\bin\\AR19DD~1.EXE -DCCPU_MKL25Z128VLK4_cm0plus -DCPU_MKL25Z128VLK4 -IC:/Users/mikkl/Desktop/kl25led/src -IC:/Users/mikkl/Desktop/kl25led/device -IC:/Users/mikkl/Desktop/kl25led/CMSIS -std=c99 -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -fdata-sections -ffunction-sections -Wall -O0 -g3 -o CMakeFiles\\KL25F_DEBUG.elf.dir\\src\\led.c.obj -c C:\\Users\\mikkl\\Desktop\\kl25led\\src\\led.c",
+  "file": "C:\\Users\\mikkl\\Desktop\\kl25led\\src\\led.c",
+  "output": "CMakeFiles\\KL25F_DEBUG.elf.dir\\src\\led.c.obj"
+},
+{
+  "directory": "C:/Users/mikkl/Desktop/kl25led/build",
+  "command": "C:\\PROGRA~2\\GNUARM~1\\102021~1.07\\bin\\AR19DD~1.EXE -DCCPU_MKL25Z128VLK4_cm0plus -DCPU_MKL25Z128VLK4 -IC:/Users/mikkl/Desktop/kl25led/src -IC:/Users/mikkl/Desktop/kl25led/device -IC:/Users/mikkl/Desktop/kl25led/CMSIS -std=c99 -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -fdata-sections -ffunction-sections -Wall -O0 -g3 -o CMakeFiles\\KL25F_DEBUG.elf.dir\\device\\startup_kl25.c.obj -c C:\\Users\\mikkl\\Desktop\\kl25led\\device\\startup_kl25.c",
+  "file": "C:\\Users\\mikkl\\Desktop\\kl25led\\device\\startup_kl25.c",
+  "output": "CMakeFiles\\KL25F_DEBUG.elf.dir\\device\\startup_kl25.c.obj"
+}
+]

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+         {
+            "name": "CrossARM",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "CPU_MKL25Z128VLK4",
+                "CPU_MKL25Z128VLK4_cm0plus",
+            ],
+            "compilerPath": "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.07\\bin\\",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}

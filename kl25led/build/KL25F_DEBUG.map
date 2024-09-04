@@ -1,0 +1,602 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o) (_exit)
+c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj (__aeabi_uidivmod)
+c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x80 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .text          0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .data          0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000000      0xa42 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000000       0x56 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .group         0x00000000        0xc CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .text          0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .data          0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .FlashConfig   0x00000000       0x10 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .after_vectors.init_data
+                0x00000000       0x42 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .after_vectors.init_bss
+                0x00000000       0x36 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .debug_macro   0x00000000      0xa42 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+VECTORS          0x00000000         0x000000c0         xr
+FLASHCFG         0x00000400         0x00000010         xr
+FLASH            0x00000410         0x0001fbf0         xr
+RAM              0x1ffff000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+LOAD CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+LOAD CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+LOAD CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+LOAD c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+
+.isr_vector     0x00000000       0xc0
+                0x00000000                __vector_table = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+                0x00000000                g_pfnVectors
+                0x00000000                __Vectors
+                0x000000c0                . = ALIGN (0x4)
+
+.cfmprotect     0x00000400        0x0
+                0x00000400                . = ALIGN (0x4)
+ *(.cfmconfig)
+                0x00000400                . = ALIGN (0x4)
+
+.text           0x00000410      0x3d4
+ *(.text*)
+ .text          0x00000410       0x48 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.delay    0x00000458       0x22 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+                0x00000458                delay
+ *fill*         0x0000047a        0x2 
+ .text.main     0x0000047c       0x80 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+                0x0000047c                main
+ .text.initLed  0x000004fc       0x74 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+                0x000004fc                initLed
+ .text.setLedColor
+                0x00000570       0xf8 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+                0x00000570                setLedColor
+ .text          0x00000668      0x114 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x00000668                __aeabi_uidiv
+                0x00000668                __udivsi3
+                0x00000774                __aeabi_uidivmod
+ .text          0x0000077c        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x0000077c                __aeabi_idiv0
+                0x0000077c                __aeabi_ldiv0
+ *(.init)
+ .init          0x00000780        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x00000780                _init
+ .init          0x00000784        0x8 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000078c        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0000078c                _fini
+ .fini          0x00000790        0x8 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x00000798       0x28 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .rodata.setLedColor
+                0x000007c0       0x20 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ *(.eh_frame*)
+ .eh_frame      0x000007e0        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .eh_frame      0x000007e0        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+
+.glue_7         0x000007e4        0x0
+ .glue_7        0x000007e4        0x0 linker stubs
+
+.glue_7t        0x000007e4        0x0
+ .glue_7t       0x000007e4        0x0 linker stubs
+
+.vfp11_veneer   0x000007e4        0x0
+ .vfp11_veneer  0x000007e4        0x0 linker stubs
+
+.v4_bx          0x000007e4        0x0
+ .v4_bx         0x000007e4        0x0 linker stubs
+
+.iplt           0x000007e4        0x0
+ .iplt          0x000007e4        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.after_vectors.reset
+                0x000007e4       0x80
+ .after_vectors.reset
+                0x000007e4       0x80 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+                0x000007e4                ResetISR
+
+.after_vectors  0x00000864      0x1e4
+ .after_vectors
+                0x00000864      0x1e4 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+                0x00000864                NMI_Handler
+                0x0000086a                HardFault_Handler
+                0x00000870                SVC_Handler
+                0x00000876                PendSV_Handler
+                0x0000087c                SysTick_Handler
+                0x00000882                LPTMR0_DriverIRQHandler
+                0x00000882                Reserved39_DriverIRQHandler
+                0x00000882                I2C0_DriverIRQHandler
+                0x00000882                SPI1_DriverIRQHandler
+                0x00000882                DMA0_DriverIRQHandler
+                0x00000882                PORTD_DriverIRQHandler
+                0x00000882                DMA2_DriverIRQHandler
+                0x00000882                CMP0_DriverIRQHandler
+                0x00000882                TPM2_DriverIRQHandler
+                0x00000882                ADC0_DriverIRQHandler
+                0x00000882                SPI0_DriverIRQHandler
+                0x00000882                TSI0_DriverIRQHandler
+                0x00000882                RTC_Seconds_DriverIRQHandler
+                0x00000882                UART0_DriverIRQHandler
+                0x00000882                I2C1_DriverIRQHandler
+                0x00000882                LLWU_DriverIRQHandler
+                0x00000882                MCG_DriverIRQHandler
+                0x00000882                DMA1_DriverIRQHandler
+                0x00000882                UART2_DriverIRQHandler
+                0x00000882                UART1_DriverIRQHandler
+                0x00000882                PIT_DriverIRQHandler
+                0x00000882                FTFA_DriverIRQHandler
+                0x00000882                IntDefaultHandler
+                0x00000882                USB0_DriverIRQHandler
+                0x00000882                DAC0_DriverIRQHandler
+                0x00000882                RTC_DriverIRQHandler
+                0x00000882                LVD_LVW_DriverIRQHandler
+                0x00000882                TPM0_DriverIRQHandler
+                0x00000882                TPM1_DriverIRQHandler
+                0x00000882                PORTA_DriverIRQHandler
+                0x00000882                Reserved20_DriverIRQHandler
+                0x00000882                DMA3_DriverIRQHandler
+                0x00000882                Reserved45_DriverIRQHandler
+                0x00000888                DMA0_IRQHandler
+                0x00000896                DMA1_IRQHandler
+                0x000008a4                DMA2_IRQHandler
+                0x000008b2                DMA3_IRQHandler
+                0x000008c0                Reserved20_IRQHandler
+                0x000008ce                FTFA_IRQHandler
+                0x000008dc                LVD_LVW_IRQHandler
+                0x000008ea                LLWU_IRQHandler
+                0x000008f8                I2C0_IRQHandler
+                0x00000906                I2C1_IRQHandler
+                0x00000914                SPI0_IRQHandler
+                0x00000922                SPI1_IRQHandler
+                0x00000930                UART0_IRQHandler
+                0x0000093e                UART1_IRQHandler
+                0x0000094c                UART2_IRQHandler
+                0x0000095a                ADC0_IRQHandler
+                0x00000968                CMP0_IRQHandler
+                0x00000976                TPM0_IRQHandler
+                0x00000984                TPM1_IRQHandler
+                0x00000992                TPM2_IRQHandler
+                0x000009a0                RTC_IRQHandler
+                0x000009ae                RTC_Seconds_IRQHandler
+                0x000009bc                PIT_IRQHandler
+                0x000009ca                Reserved39_IRQHandler
+                0x000009d8                USB0_IRQHandler
+                0x000009e6                DAC0_IRQHandler
+                0x000009f4                TSI0_IRQHandler
+                0x00000a02                MCG_IRQHandler
+                0x00000a10                LPTMR0_IRQHandler
+                0x00000a1e                Reserved45_IRQHandler
+                0x00000a2c                PORTA_IRQHandler
+                0x00000a3a                PORTD_IRQHandler
+
+.rel.dyn        0x00000a48        0x0
+ .rel.iplt      0x00000a48        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000a48                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000a48                __exidx_end = .
+                0x00000a48                __etext = .
+
+.data           0x1ffff000       0x30 load address 0x00000a48
+                0x1ffff000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.myglobal
+                0x1ffff000       0x28 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+                0x1ffff000                myglobal
+                0x1ffff028                . = ALIGN (0x4)
+                0x1ffff028                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x1ffff028                PROVIDE (__preinit_array_end = .)
+                0x1ffff028                . = ALIGN (0x4)
+                0x1ffff028                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x1ffff028        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x1ffff02c                PROVIDE (__init_array_end = .)
+                0x1ffff02c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x1ffff02c        0x4 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x1ffff030                . = ALIGN (0x4)
+                0x1ffff030                __data_end__ = .
+
+.igot.plt       0x1ffff030        0x0 load address 0x00000a78
+ .igot.plt      0x1ffff030        0x0 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.bss            0x1ffff030       0x1c load address 0x00000a78
+                0x1ffff030                __bss_start__ = .
+ *(.bss*)
+ .bss           0x1ffff030       0x1c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(COMMON)
+                0x1ffff04c                __bss_end__ = .
+
+.heap           0x1ffff04c        0x0
+                0x1ffff04c                __end__ = .
+                0x1ffff04c                end = __end__
+                0x1ffff04c                __heap_start = .
+ *(.heap*)
+                0x1ffff04c                __heap_end = .
+                0x20003000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20002c00                __StackLimit = (__StackTop - 0x400)
+                0x20003000                PROVIDE (__stack = __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __heap_end), region RAM overflowed with stack)
+OUTPUT(KL25F_DEBUG.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .ARM.attributes
+                0x00000076       0x2c CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .ARM.attributes
+                0x000000a2       0x2c CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .ARM.attributes
+                0x000000ce       0x1e c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000ec       0x1e c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000010a       0x2c c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000136       0x1e c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+
+.debug_info     0x00000000      0xa8f
+ .debug_info    0x00000000      0x154 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_info    0x00000154      0x41c CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_info    0x00000570      0x51f CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+
+.debug_abbrev   0x00000000      0x3c5
+ .debug_abbrev  0x00000000       0xf8 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_abbrev  0x000000f8      0x133 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_abbrev  0x0000022b      0x19a CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+
+.debug_aranges  0x00000000      0x1b0
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_aranges
+                0x00000028       0x28 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_aranges
+                0x00000050      0x160 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+
+.debug_ranges   0x00000000      0x180
+ .debug_ranges  0x00000000       0x18 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_ranges  0x00000018       0x18 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_ranges  0x00000030      0x150 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+
+.debug_macro    0x00000000     0x65bc
+ .debug_macro   0x00000000       0x73 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000073      0xa42 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000ab5       0x22 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000ad7       0x56 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000b2d       0x51 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000b7e      0x103 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000c81       0x6a CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000ceb      0x1df CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_macro   0x00000eca       0xfb CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00000fc5       0x3f CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00001004       0x34 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00001038       0x26 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x0000105e      0x329 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00001387       0x30 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x000013b7     0x51e2 CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_macro   0x00006599       0x23 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+
+.debug_line     0x00000000      0x7c2
+ .debug_line    0x00000000      0x238 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_line    0x00000238      0x32c CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_line    0x00000564      0x25e CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+
+.debug_str      0x00000000    0x2866e
+ .debug_str     0x00000000     0x396e CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+                               0x3ad2 (size before relaxing)
+ .debug_str     0x0000396e    0x2492e CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+                              0x2851d (size before relaxing)
+ .debug_str     0x0002829c      0x3d2 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+                               0x2fad (size before relaxing)
+
+.debug_frame    0x00000000      0x554
+ .debug_frame   0x00000000       0x50 CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+ .debug_frame   0x00000050       0x4c CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+ .debug_frame   0x0000009c      0x498 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ .debug_frame   0x00000534       0x20 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ADC0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+CMP0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+CMP0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DAC0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DAC0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA1_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA1_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA2_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA2_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA3_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+DMA3_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+FTFA_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+FTFA_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+Flash_Config                                      CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+HardFault_Handler                                 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+I2C0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+I2C0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+I2C1_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+I2C1_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+IntDefaultHandler                                 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+LLWU_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+LLWU_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+LPTMR0_DriverIRQHandler                           CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+LPTMR0_IRQHandler                                 CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+LVD_LVW_DriverIRQHandler                          CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+LVD_LVW_IRQHandler                                CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+MCG_DriverIRQHandler                              CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+MCG_IRQHandler                                    CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+NMI_Handler                                       CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+PIT_DriverIRQHandler                              CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+PIT_IRQHandler                                    CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+PORTA_DriverIRQHandler                            CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+PORTA_IRQHandler                                  CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+PORTD_DriverIRQHandler                            CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+PORTD_IRQHandler                                  CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+PendSV_Handler                                    CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+RTC_DriverIRQHandler                              CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+RTC_IRQHandler                                    CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+RTC_Seconds_DriverIRQHandler                      CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+RTC_Seconds_IRQHandler                            CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+Reserved20_DriverIRQHandler                       CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+Reserved20_IRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+Reserved39_DriverIRQHandler                       CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+Reserved39_IRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+Reserved45_DriverIRQHandler                       CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+Reserved45_IRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+ResetISR                                          CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+SPI0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+SPI0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+SPI1_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+SPI1_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+SVC_Handler                                       CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+SysTick_Handler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TPM0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TPM0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TPM1_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TPM1_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TPM2_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TPM2_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TSI0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+TSI0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+UART0_DriverIRQHandler                            CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+UART0_IRQHandler                                  CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+UART1_DriverIRQHandler                            CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+UART1_IRQHandler                                  CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+UART2_DriverIRQHandler                            CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+UART2_IRQHandler                                  CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+USB0_DriverIRQHandler                             CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+USB0_IRQHandler                                   CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+__StackTop                                        CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+__Vectors                                         CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+__aeabi_idiv0                                     c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+__aeabi_ldiv0                                     c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+__aeabi_uidivmod                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                                                  CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+__bss_end__                                       CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+__bss_start__                                     CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+__call_exitprocs                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+__data_end__                                      CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+__data_start__                                    CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+__deregister_frame_info                           c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+__dso_handle                                      c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+__etext                                           CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+__init_array_end                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+__init_array_start                                c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+__libc_init_array                                 c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+__preinit_array_end                               c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+__register_frame_info                             c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+__sf_fake_stderr                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+__stack                                           c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+__udivsi3                                         c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+_exit                                             c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+_fini                                             c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+_global_impure_ptr                                c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-impure.o)
+_init                                             c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+_stack_init                                       c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+_start                                            c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+atexit                                            c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+bss_init                                          CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+data_init                                         CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+delay                                             CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+exit                                              c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-exit.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+g_pfnVectors                                      CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+hardware_init_hook                                c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+initLed                                           CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+                                                  CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+main                                              CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+                                                  CMakeFiles/KL25F_DEBUG.elf.dir/device/startup_kl25.c.obj
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+memset                                            c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(lib_a-memset.o)
+                                                  c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+myglobal                                          CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+setLedColor                                       CMakeFiles/KL25F_DEBUG.elf.dir/src/led.c.obj
+                                                  CMakeFiles/KL25F_DEBUG.elf.dir/src/main.c.obj
+software_init_hook                                c:/progra~2/gnuarm~1/102021~1.07/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o

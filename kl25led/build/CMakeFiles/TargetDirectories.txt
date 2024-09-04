@@ -1,0 +1,3 @@
+C:/Users/mikkl/Desktop/kl25led/build/CMakeFiles/KL25F_DEBUG.elf.dir
+C:/Users/mikkl/Desktop/kl25led/build/CMakeFiles/edit_cache.dir
+C:/Users/mikkl/Desktop/kl25led/build/CMakeFiles/rebuild_cache.dir
